@@ -1,1 +1,6 @@
-# Udemy_Javascript
+# 教材
+-  Udemy：【React18対応】モダンJavaScriptの基礎から始める挫折しないためのReact入門
+
+## 平日朝最低限実施すること
+- 最低30分学習
+- 記録をつける（ひとことも）
